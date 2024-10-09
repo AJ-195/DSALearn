@@ -1,2 +1,2 @@
 # DSALearn
-For learnign purpose learning DSA 
+For learning purpose learning DSA 
